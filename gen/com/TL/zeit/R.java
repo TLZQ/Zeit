@@ -9,9 +9,10 @@ package com.TL.zeit;
 
 public final class R {
     public static final class anim {
-        public static final int guide_btn_press=0x7f040000;
-        public static final int guide_fade_in_scale=0x7f040001;
-        public static final int guide_fade_out=0x7f040002;
+        public static final int coloranimation=0x7f040000;
+        public static final int guide_btn_press=0x7f040001;
+        public static final int guide_fade_in_scale=0x7f040002;
+        public static final int guide_fade_out=0x7f040003;
     }
     public static final class attr {
     }
@@ -79,9 +80,9 @@ public final class R {
     }
     public static final class id {
         public static final int action_settings=0x7f0a0003;
-        public static final int guide_background=0x7f0a0000;
+        public static final int guide_background=0x7f0a0001;
         public static final int guide_loginButton=0x7f0a0002;
-        public static final int guide_picture=0x7f0a0001;
+        public static final int guide_picture=0x7f0a0000;
     }
     public static final class layout {
         public static final int activity_guide=0x7f030000;
