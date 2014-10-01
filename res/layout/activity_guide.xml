@@ -23,15 +23,15 @@
    	    android:layout_alignParentTop="true"
    	    android:layout_marginTop="70dp"
    	    android:scaleType="fitXY" />
-   	
+
    	<ImageButton
-        android:id="@+id/guide_loginButton"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="15dp"
-        android:background="@anim/guide_btn_press"
-        android:scaleType="fitXY" />
+   	    android:id="@+id/guide_loginButton"
+   	    android:layout_width="80dp"
+   	    android:layout_height="80dp"
+   	    android:layout_alignParentBottom="true"
+   	    android:layout_centerHorizontal="true"
+   	    android:layout_marginBottom="15dp"
+   	    android:background="@anim/guide_btn_press"
+   	    android:scaleType="fitXY" />
     
 </RelativeLayout>
