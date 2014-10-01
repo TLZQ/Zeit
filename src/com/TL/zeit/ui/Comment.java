@@ -1,5 +1,7 @@
 package com.TL.zeit.ui;
 
+import com.TL.zeit.R;
+
 import android.os.Bundle;
 
 public class Comment extends Timeline{
@@ -8,7 +10,7 @@ public class Comment extends Timeline{
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		dfrgbdgdhnyuhjihfiusgaidugasfyduiagfuis;
+		setContentView(R.layout.comment);
 	}
 	
 }

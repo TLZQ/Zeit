@@ -8,7 +8,9 @@
 	<string name="com_sina_weibo_sdk_login_with_weibo_account">用微博登录</string>
     <string name="com_sina_weibo_sdk_login">登录</string>
     <string name="com_sina_weibo_sdk_logout">注销</string>
-	
+    <string name="sendButton">发送</string>
+  	<string name="cancelButton">取消</string>  
+ 
 	<!-- 功能列表 -->
     <string name="weibosdk_demo_feature_oauth">微博授权</string>
     <string name="weibosdk_demo_feature_share">分享到微博</string>
@@ -116,5 +118,6 @@
     <string name="weibosdk_demo_get_home_mblog">获取首页微博信息流</string>
     <string name="weibosdk_demo_get_comment">获取微博评论信息流</string>
     <string name="weibosdk_demo_get_group">获取微博好友分组</string>
+    
 
 </resources>
