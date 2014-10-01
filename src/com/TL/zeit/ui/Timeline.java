@@ -22,7 +22,7 @@ public class Timeline extends Activity{
 		
 
         
-//        initView();
+//   123     initView();
 
 		
 		
