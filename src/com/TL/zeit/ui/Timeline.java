@@ -12,7 +12,7 @@ import com.TL.zeit.R;
 /**
  * 这是Timeline主界面的类
  * @author Troy Liu
- *
+ * @version 2014-10-7  上午1:20:47
  */
 public class Timeline extends Activity{
 

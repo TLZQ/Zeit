@@ -4,9 +4,9 @@ import com.TL.zeit.R;
 
 import android.os.Bundle;
 /**
- * 
- * @author Troy Liu
  * 这是实现评论功能的类
+ * @author Troy Liu
+ * @version 2014-10-7  上午1:20:34
  */
 public class Comment extends Timeline{
 
