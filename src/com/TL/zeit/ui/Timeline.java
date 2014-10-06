@@ -9,7 +9,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.TL.zeit.R;
-
+/**
+ * 这是Timeline主界面的类
+ * @author Troy Liu
+ *
+ */
 public class Timeline extends Activity{
 
 	private TextView textView1;
@@ -19,22 +23,5 @@ public class Timeline extends Activity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.timeline);
-		
-
-        
-//   123     initView();
-
-		
-		
-	/*	textView1 = (TextView)findViewById(R.id.textView1);
-		initView();   */
-}
-
-
-
-	private void initView() {
-		// TODO Auto-generated method stub
-		textView1.setText("You are in! baby!");
 	}
-	
 }
